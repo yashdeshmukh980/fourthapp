@@ -22,3 +22,10 @@ To start project use command
 ### Website Link:[Spiderman](https://4kwallpapers.com/spiderman-wallpapers/)
 
 ### Image Link:[Update](https://a.storyblok.com/f/99519/783x551/88ef93dc3b/gantt-chart-two-thirds-gui.webp/m/1000x704/filters:format(webp))
+
+### First Command 
+  To start project use `git init` command 
+### Code Part:
+  ```Java
+     System.out.println("Hello World");
+ ```
