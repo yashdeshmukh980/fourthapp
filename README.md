@@ -9,8 +9,8 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore reprehenderit
 - Inroduction
 - Abstract
 - Objective
-  1. sub-objective
-  2. sub-objective
+ 1. sub-objective
+ 2. sub-objective
 - Screen shot
 - Code
 - Conclusion
