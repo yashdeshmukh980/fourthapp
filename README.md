@@ -14,3 +14,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore reprehenderit
 - Screen shot
 - Code
 - Conclusion
+
+### How to start
+To start project use command 
+> git init start fourth-project
